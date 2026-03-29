@@ -10,7 +10,7 @@ Głównym zadaniem projektu było stworzenie projektu interaktywnej aplikacji an
 
 ## Technologie:
 * **Platforma:** Snowflake (Notebooks, Streamlit apps)
-* **Język:** SQL, Python (pandas, numpy, streamlit, altair)
+* **Język:** SQL, Python (pandas, numpy, streamlit, altair, snowflake-snowpark-python)
 
 
 ## Dane:
